@@ -1,2 +1,4 @@
+
 #!/bin/bash
-echo "Best School" > \\\\\\\"'\"Best School\"\\'"\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)
+find . type d -not -name "." | wc -l
+find . -type d -not -name "." | wc -l
